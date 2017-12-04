@@ -1,0 +1,16 @@
+<resources>
+  <string name="app_name">Phone - Finder Phone UAU99</string>
+  <string name="five_min">5 min</string>
+  <string name="ten_min">10 min</string>
+  <string name="fifteen_min">15 min</string>
+  <string name="thirty_min">30 min</string>
+  <string name="checkout">Checkout</string>
+  <string name="one_hour">1 hora</string>
+  <string name="info_button">\?</string>
+  <string name="do_check_in">Faça o check-in:</string>
+  <string name="timeleft">Tempo Restante:</string>
+  <string name="do_check_out">Faça o check out</string>
+  <string name="status_do_telefone">Status do Telefone:</string>
+  <string name="active_check_in">Check-in Ativo</string>
+  <string name="inactive_check_in">Check-in não ativo</string>
+</resources>
